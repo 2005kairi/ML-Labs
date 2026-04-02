@@ -1,0 +1,8 @@
+In Lab 4, I performed a full data‑preprocessing workflow on the Online Retail dataset.
+I began by identifying data quality issues such as missing values and inconsistencies,
+then applied an appropriate missing‑value strategy to clean the dataset. Outliers were
+detected and handled using the IQR method to improve data reliability. Next, I normalized
+the numerical features using both Min‑Max scaling and Z‑score standardization to ensure 
+consistent feature ranges. Finally, I evaluated feature correlation and applied PCA for 
+  demonstration, showing that Quantity and UnitPrice were uncorrelated and PCA did not 
+significantly reduce dimensionality.
