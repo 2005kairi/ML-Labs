@@ -1,1 +1,1 @@
-
+Applied unsupervised machine learning (K-Means) to segment 8,950 credit card customers using behavioral data from Kaggle. Cleaned missing values with mean imputation, removed the ID column, and scaled features using StandardScaler. Used the Elbow Method and Silhouette Score to select K=3 as the optimal number of clusters. Visualized results using PCA. Identified three customer segments: active high spenders, cash advance users, and inactive customers.
